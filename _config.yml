@@ -9,8 +9,8 @@
 locale                   : "es-CL"
 title                    : "Mi CV"
 title_separator          : "-"
-name                     : &name "Jorge Mainhard"
-description              : &description "Estudiante de Ingeniería Informática"
+name                     : &name "Jorge M. Bravo"
+description              : &description "Página personal en GitHub pages"
 url                      : https://jmainhard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jmainhard/jmainhard.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jorge Mainhard"
   avatar           : "profile.png"
-  bio              : "Estudiante en la región de la Araucanía en Chile"
+  bio              : "Estudiante en la región de la Araucanía, Chile"
   location         : "Villarrica, CL"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -99,17 +99,17 @@ author:
   github           : "jmainhard"
   google_plus      :
   keybase          :
-  instagram        :  "koke_bigf"
+  instagram        : "koke_bigf"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
