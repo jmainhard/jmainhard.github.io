@@ -15,7 +15,7 @@ Educación
 * 2020 - Ahora, Universidad de la Frontera, Temuco
 * 2020 - Ahora, Cursos sobre computación
 
-Work experience
+Experiencia laboral
 ======
 * Verano 2019 y Verano 2020:
   * Trabajos de temporada
@@ -24,7 +24,7 @@ Habilidades
 ======
 * Conocimiento e interés en Tecnología
 * Uso de herrramientas de informática/computación
-* H. Blandas
+* Habilidades Blandas
   * Responsabilidad
   * Empatía
   * Determinación
