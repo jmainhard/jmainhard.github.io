@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "es-CL"
-title                    : "Mi CV"
+title                    : "Jorge M. Bravo"
 title_separator          : "-"
 name                     : &name "Jorge M. Bravo"
 description              : &description "Página personal en GitHub pages"
