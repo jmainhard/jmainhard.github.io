@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2008 - 2019, Educación Básica y Media
+* 2020 - Ahora, Universidad de la Frontera, Temuco
+* 2020 - Ahora, Cursos sobre computación
 
 Work experience
 ======

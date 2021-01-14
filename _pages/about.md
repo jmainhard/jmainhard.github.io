@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Página creada para prueba de creación de páginas web
+### Página creada en aprendizaje de creación de páginas web
 14-enero-2021
 ======
 
