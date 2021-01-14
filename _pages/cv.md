@@ -22,10 +22,12 @@ Work experience
   
 Habilidades
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Conocimiento e interés en Tecnología
+* Uso de herrramientas de informática/computación
+* H. Blandas
+  * Responsabilidad
+  * Empatía
+  * Determinación
+* Programación Java (Aprendiendo)
+* Linux, Gestión básica de servidores, Visual Basic
 
