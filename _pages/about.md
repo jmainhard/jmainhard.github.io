@@ -16,4 +16,5 @@ redirect_from:
 
 Página de información personal mantenida en GitHub Pages.
 
-Contiene una página con un currículum vitae y una página sobre la ciudad en que resido. Se puede desplazar entre ambas a través de links.
+Contiene una página con un currículum vitae y una página sobre la ciudad en que resido.  
+Puede navegar a través del menú superior.
