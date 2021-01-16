@@ -14,7 +14,5 @@ redirect_from:
 14-enero-2021
 ---
 
-Página mantenida en GitHub Pages.
-
-Contiene una página con un currículum vitae y una página sobre la ciudad en que resido.  
+Esta página web contiene  un currículum vitae y una página sobre la ciudad en que resido.  
 Puede navegar a través del menú superior.
