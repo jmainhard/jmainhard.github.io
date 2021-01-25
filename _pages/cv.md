@@ -13,7 +13,6 @@ Educación
 ======
 * 2008 - 2019, Educación Básica y Media
 * 2020 - Ahora, Universidad de la Frontera, Temuco
-* 2020 - Ahora, Cursos sobre computación
 
 Experiencia laboral
 ======

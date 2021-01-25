@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 
-### Página creada reforzando aprendizajes de creación de páginas web
+### Página creada reforzando aprendizajes de creación de páginas web y una prueba
 
 14-enero-2021
 ---
 
 Esta página web contiene  un currículum vitae y una página sobre la ciudad en que resido.  
-Puede navegar a través del menú superior.
+El menú superior permite navegación
