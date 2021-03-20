@@ -21,8 +21,8 @@ Experiencia laboral
   
 Habilidades
 ======
-* Conocimiento e interés en Tecnología
-* Uso de herrramientas de informática/computación
+* Softwares de ofimática
+* Manejo de tecnologías
 * Habilidades Blandas
   * Responsabilidad
   * Empatía
