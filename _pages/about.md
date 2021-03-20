@@ -13,4 +13,4 @@ Navegación a través de menú superior
 ---
 
 Servidores:  
-[![BismutoUnturned | Private | Full Vanilla](https://cdn.battlemetrics.com/b/horizontal500x80px/10669404.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)](https://www.battlemetrics.com/servers/unturned/10669404)
+[![Banner for BismutoUnturned](https://cdn.battlemetrics.com/b/horizontal500x80px/10669404.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)](https://www.battlemetrics.com/servers/unturned/10669404)
