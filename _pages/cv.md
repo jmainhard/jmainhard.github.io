@@ -23,10 +23,10 @@ Habilidades
 ======
 * Softwares de ofimática
 * Manejo de tecnologías
+* Programación Java (Aprendiendo)
+* Linux, Gestión básica de servidores, Visual Basic
 * Habilidades Blandas
   * Responsabilidad
   * Empatía
   * Determinación
-* Programación Java (Aprendiendo)
-* Linux, Gestión básica de servidores, Visual Basic
 
