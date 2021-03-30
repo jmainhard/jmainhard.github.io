@@ -12,7 +12,7 @@ redirect_from:
 Educación
 ======
 * 2008 - 2019, Educación Básica y Media
-* 2020 - Ahora, Universidad de la Frontera, Temuco
+* 2020 - Ahora, Ing. Informática Universidad de la Frontera
 
 Experiencia laboral
 ======
@@ -22,9 +22,9 @@ Experiencia laboral
 Habilidades
 ======
 * Softwares de ofimática
-* Manejo de tecnologías
 * Programación Java (Aprendiendo)
-* Linux, Gestión básica de servidores, Visual Basic
+* Linux y gestión básica de servidores
+* Visual Basic
 * Habilidades Blandas
   * Responsabilidad
   * Empatía
