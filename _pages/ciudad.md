@@ -15,11 +15,7 @@ Villarrica es una ciudad y comuna de Chile, ubicada en la provincia de Cautín, 
 
 ![Villarrica, ciudad y volcán](/assets/images/villarrica_town_and_volcano.png)
 
-{{ /assets/images/villarrica_town_and_volcano.png:img?width=250 alt='Villarrica, ciudad y volcán' }}
-
 Junto a Gorbea, Cunco, Loncoche, Pucón, Curarrehue y Toltén, integra el Distrito Electoral N.º 52 y pertenece a la 15ª Circunscripción Senatorial (Araucanía Sur). La ciudad de Villarrica, de 50.706 habitantes, se emplaza a 227 m s. n. m.. y a orillas del lago del mismo nombre. 
 (Wikipedia)
 
 ![Villarrica, volcán](/assets/images/villarrica_volcano.png)
-
-{{ /assets/images/villarrica_volcano.png.png:img?width=250 alt='Villarrica, volcán' }}
