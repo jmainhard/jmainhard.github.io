@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Esta página web contiene  un currículum vitae y poco más   
+Esta página web contiene un currículum vitae y poco más, sitio de pruebas 
 Navegación a través de menú superior.  
 
 ---
