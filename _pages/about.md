@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Esta página web contiene  un currículum vitae y una página sobre la ciudad en que resido.  
-Navegación a través de menú superior
-
+Esta página web contiene  un currículum vitae y poco más  
 ---
 
 Servidores:  
