@@ -6,10 +6,5 @@ author_profile: false
 redirect_from:
 ---
 
-Lo siguiente es Markdown interpretando Ruby
-
-```ruby
-def foobar
-    puts "Hola Mundo"
-end
-```
+Lo siguiente es Markdown convertido en HTML
+Hola Mundo :D
