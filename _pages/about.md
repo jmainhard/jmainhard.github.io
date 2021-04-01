@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Esta página web contiene  un currículum vitae y poco más  
+
+Esta página web contiene  un currículum vitae y poco más   
+Navegación a través de menú superior.  
+
 ---
 
 Servidores:  
