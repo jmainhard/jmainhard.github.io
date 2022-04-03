@@ -5,5 +5,8 @@ permalink: /esp-tecn/
 author_profile: true
 ---
 
-{% include base_path %}
+{% for post in site.esp-tecn %}
+  {% include archive-single.html %}
+{% endfor %}
+
 
