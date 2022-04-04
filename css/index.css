@@ -1,0 +1,38 @@
+.subscribe * {
+    font-size: 18px;
+}
+
+.subscribe input {
+    width: 450px;
+    padding: 4px;
+}
+
+.subscribe button {
+    background-color: orangered;
+    border-radius: 2px;
+    cursor: pointer;
+    padding: 6px;
+    border: none;
+}
+
+.posts {
+    margin-top: 12px;
+}
+
+.posts article { 
+    border: 1px solid black;
+    margin: 10px 0px;
+    font-size: 18px;
+    padding: 8px;
+    width: 720px;
+}
+
+.post-title {
+    margin-bottom: 8px;
+}
+
+.footer-container {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
